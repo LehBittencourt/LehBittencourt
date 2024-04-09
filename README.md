@@ -4,7 +4,8 @@
 
 ##
 
-![Letícia GitHub stats](https://github-readme-stats.vercel.app/api?username=LehBittencourt&show_icons=true&theme=dracula)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LehBittencourt&layout=compact&langs_count=16&theme=dracula)
+![Letícia GitHub stats](https://github-readme-stats.vercel.app/api?username=LehBittencourt&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LehBittencourt&layout=compact&langs_count=16&theme=dracula)
 
 ## Linguagens já Utilizadas
 
